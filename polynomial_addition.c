@@ -126,7 +126,6 @@ struct poly*poly_add(struct poly*poly1,struct poly*poly2)
 }
 /*
 OUTPUT : 
-
 polynomialcoeff= 5  power=6 
 coeff= 4  power=3 
 coeff= 6  power=2 
